@@ -1,0 +1,22 @@
+Index: app/src/main/java/com/example/petdiary/ui/friends/FriendsListFragment.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/example/petdiary/ui/friends/FriendsListFragment.java	(revision 68092826f08a5a67512f3e22fe269376f65f73ce)
++++ app/src/main/java/com/example/petdiary/ui/friends/FriendsListFragment.java	(revision 1b2e32a4d626d4b425014e14a33d67740b3fdf99)
+@@ -52,14 +52,12 @@
+     public View onCreateView(@NonNull LayoutInflater inflater,
+                              ViewGroup container, Bundle savedInstanceState) {
+ 
+-
+         View root = inflater.inflate(R.layout.fragment_friends, container, false);
+ 
+         RecyclerView recyclerView = root.findViewById(R.id.fri_recyclerview);
+         LinearLayoutManager layoutManager = new LinearLayoutManager(getActivity(), LinearLayoutManager.VERTICAL, false);
+         final PersonAdapter adapter = new PersonAdapter(getContext());
+ 
+-
+         database = FirebaseDatabase.getInstance();
+         recyclerView.setLayoutManager(layoutManager);
+         recyclerView.setHasFixedSize(true);
