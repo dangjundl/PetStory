@@ -20,8 +20,9 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="애니멀 조아"
+        android:text="Pet_Story"
         android:textSize="30dp"
+        android:textColor="@color/colorBlack"
         android:textStyle="bold"
         android:layout_marginBottom="5dp"
         android:layout_marginLeft="20dp"
@@ -39,6 +40,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="버전 : 1.0.0"
+        android:textColor="@color/colorBlack"
         android:textSize="30dp"
         android:textStyle="bold"
         android:layout_marginBottom="5dp"
@@ -56,7 +58,8 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="개발팀 - 휘아가는 아가야 지켜줘야해"
+        android:text=" Porori_Cooperation "
+        android:textColor="@color/colorBlack"
         android:textSize="20dp"
         android:textStyle="bold"
         android:layout_marginBottom="5dp"
@@ -66,7 +69,8 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="김이랑, 김휘성, 박준호, 양준혁"
+        android:textColor="@color/colorPurple"
+        android:text="Engineer -- jun_hyeok , jun_ho , yi_rang , hwi-sung --"
         android:textSize="15dp"
         android:textStyle="bold"
         android:layout_marginBottom="5dp"
@@ -81,6 +85,27 @@
         android:background="@color/colorPrimaryDark">
     </LinearLayout>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorBlack"
+        android:text=" Report a problem"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPurple"
+        android:text="Email : pokethyoek@gmail.com"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp" />
 
 
 

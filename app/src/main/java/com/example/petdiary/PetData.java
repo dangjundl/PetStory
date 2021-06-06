@@ -7,7 +7,6 @@ public class PetData {
     private String petId;
     private String petMaster;
 
-
     public String getPetMaster() {
         return petMaster;
     }

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PetDiary</string>
+    <string name="app_name">PetStory</string>
     <string name="kakao_app_key">f7fb1b7c8f0ae79c25714baf1c3df8ba</string>
     <string name="request_permission">This sample needs camera permission.</string>
     <string name="camera_error">This device doesn\'t support Camera2 API.</string>
@@ -15,7 +15,7 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
-
+    
     <string name="cancel">cancel</string>
     <string name="ok">OK</string>
 
