@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimaryLight"
+    android:background="@drawable/dog_friends"
     android:orientation="vertical">
 
     <LinearLayout
@@ -107,7 +107,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="5dp"
-                android:background="@color/colorPrimaryDark"
+                android:background="#EAEFF8"
 
                 android:text="저장" />
             <!--        android:visibility="invisible"-->
@@ -117,7 +117,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="5dp"
-                android:background="@color/colorPrimaryDark"
+                android:background="#EAEFF8"
 
                 android:text="취소" />
         </LinearLayout>

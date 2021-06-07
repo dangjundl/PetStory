@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#0EAFC5</color>
-    <color name="colorPrimaryLight">#B6E3E9</color>
-    <color name="colorWhite">#FFFFFF</color>
-    <color name="colorPrimaryDark">#9BCDD4</color>
+
+
+
+
+
+    <color name="colorPrimaryDark">#84A9FF</color>
+
+    <color name="colorPrimary">#6690FF</color>
+
+    <!-- 얜 뭔지몰라-->
+
     <color name="colorPrimaryDark2">#384647</color>
+
+
+
+
+
     <color name="colorAccent">#03DAC5</color>
     <color name="colorPurple">#FF00DD</color>
+
     <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorInfo">#D6E4FF</color>
+
+
+
 
 </resources>

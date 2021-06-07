@@ -9,7 +9,7 @@
     android:orientation="horizontal"
     app:cardElevation="0dp"
     app:strokeWidth="2dp"
-    app:strokeColor="@color/colorPrimaryLight"
+    app:strokeColor="@color/colorPrimaryDark"
     >
 
     <ImageView

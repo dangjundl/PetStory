@@ -5,7 +5,7 @@
     android:id="@+id/userPage"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimaryLight">
+    android:background="@drawable/dog_bg">
 
     <ImageView
         android:id="@+id/userPage_editIcon"

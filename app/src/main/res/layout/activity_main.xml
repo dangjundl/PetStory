@@ -5,7 +5,7 @@
     android:id="@+id/drawer_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#D9F1F1"
+    android:background="@drawable/dog_friends"
     android:orientation="vertical">
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout

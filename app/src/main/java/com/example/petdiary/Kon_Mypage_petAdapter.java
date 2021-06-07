@@ -193,7 +193,7 @@ public class Kon_Mypage_petAdapter extends RecyclerView.Adapter<Kon_Mypage_petAd
                 frame.setStrokeColor(ContextCompat.getColor(context, R.color.colorAccent));
             }
             else {
-                frame.setStrokeColor(ContextCompat.getColor(context, R.color.colorPrimaryLight));
+                frame.setStrokeColor(ContextCompat.getColor(context, R.color.colorPrimaryDark));
             }
         }
     }

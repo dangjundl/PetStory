@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimaryLight"
+    android:background="@drawable/catbg"
     android:orientation="vertical">
 
     <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
@@ -23,6 +23,7 @@
                 android:orientation="horizontal"
                 android:scrollbarAlwaysDrawHorizontalTrack="true">
 
+                <!-- ========================================== profile image -->
                 <!-- ========================================== profile image -->
                 <androidx.cardview.widget.CardView
                     android:id="@+id/profile_imageView"

@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#D9F1F1"
+    android:background="@drawable/dog_bg"
     android:focusable="true"
     android:focusableInTouchMode="true">
 
@@ -21,7 +21,7 @@
             android:textStyle="bold"
             android:textColor="#000000"
             android:gravity="center"
-            android:background="#B6E3E9"
+            android:background="#EAEFF8"
             android:layout_marginBottom="30dp"/>
 
         <EditText
